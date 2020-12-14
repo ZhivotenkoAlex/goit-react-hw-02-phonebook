@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/css/main.97f16e09.chunk.css",
+    "main.js": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/js/main.662c03a8.chunk.js",
+    "main.js.map": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/js/main.662c03a8.chunk.js.map",
+    "runtime-main.js": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/js/runtime-main.613e8358.js",
+    "runtime-main.js.map": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/js/runtime-main.613e8358.js.map",
+    "static/js/2.9e1b4871.chunk.js": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/js/2.9e1b4871.chunk.js",
+    "static/js/2.9e1b4871.chunk.js.map": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/js/2.9e1b4871.chunk.js.map",
+    "static/js/3.b9a7eb27.chunk.js": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/js/3.b9a7eb27.chunk.js",
+    "static/js/3.b9a7eb27.chunk.js.map": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/js/3.b9a7eb27.chunk.js.map",
+    "index.html": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/index.html",
+    "static/css/main.97f16e09.chunk.css.map": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/css/main.97f16e09.chunk.css.map",
+    "static/js/2.9e1b4871.chunk.js.LICENSE.txt": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/js/2.9e1b4871.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ZhivotenkoAlex/goit-react-hw-02-phonebook/static/media/back.a7f19ea8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.613e8358.js",
+    "static/js/2.9e1b4871.chunk.js",
+    "static/css/main.97f16e09.chunk.css",
+    "static/js/main.662c03a8.chunk.js"
+  ]
+}
